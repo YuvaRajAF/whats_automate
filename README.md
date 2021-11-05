@@ -5,7 +5,7 @@
 
 Use the following Command
 
-    `python whatsautomate.py`
+    python whatsautomate.py
 
 - remember to edit your message number and time
 - remember to login to your whatsappweb
